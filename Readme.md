@@ -1,2 +1,2 @@
-## TextView elements
-![](app/src/main/res/drawable/task1.png)
+## Scrollview and active web link
+![](app/src/main/res/drawable/task2.gif)
