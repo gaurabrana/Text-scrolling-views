@@ -1,2 +1,2 @@
-## Scrollview and active web link
-![](app/src/main/res/drawable/task2.gif)
+## Scroll multiple elements
+![](app/src/main/res/drawable/screenshot.gif)
